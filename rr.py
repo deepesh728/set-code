@@ -5,7 +5,7 @@ d = "*" *7
 print("\n")
 print(a *11)
 # print("\n" + a)
-# print("*" *10)
+# print("*" *10) 
 for y in d:
 	print("{0:<10} {1:<5}".format(y,y))
 print("*" *11)
